@@ -21,7 +21,7 @@ const createDevConfig = require("./settings/configs/dev");
  * @author      Samet Tarim aka prod3v3loper
  * @copyright   Copyright (C) 2023 Samet Tarim - All rights reserved
  * @license     MIT
- * @version     1.0.0
+ * @version     1.0.1
  * @since       1.0
  * @package     MELABUAI
  * @subpackage  generator-web3-dapp

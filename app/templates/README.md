@@ -55,9 +55,8 @@ https://docs.bnbchain.org/docs/truffle-new
 
 Developing with truffle and ganache for VSCode [Extension](https://marketplace.visualstudio.com/items?itemName=trufflesuite-csi.truffle-vscode#:~:text=Truffle%20for%20VS%20Code%20simplifies,Truffle%2C%20Ganache%2C%20and%20Infura.)
 
-### TIP
-
-Use [nvm](https://github.com/nvm-sh/nvm) to manage your node versions
+> ### TIP
+> Use [nvm](https://github.com/nvm-sh/nvm) to manage your node versions
 
 ## Development
 

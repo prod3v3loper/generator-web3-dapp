@@ -89,7 +89,7 @@ If promt a call
 or directly
 
 ```bash
-projects$ yo web3-contract-dapp
+projects$ yo web3-dapp
 ```
 
 Enter and create your project
@@ -119,7 +119,7 @@ If promt a call
 or directly
 
 ```bash
-projects$ yo web3-contract-dapp
+projects$ yo web3-dapp
 ```
 
 Enter and create your project.
