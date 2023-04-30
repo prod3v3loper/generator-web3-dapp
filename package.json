@@ -1,0 +1,45 @@
+{
+  "name": "generator-web3-dapp",
+  "description": "Build your contracts with solidity and develop with truffle, create dapps with webpack and preact. By prod3v3loper",
+  "version": "1.0.0",
+  "main": "./app/index.js",
+  "scripts": {},
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "@webpack-cli/webpack-scaffold": "^1.0.3",
+    "yeoman-generator": "^5.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prod3v3loper/generator-web3-dapp.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "yeoman",
+    "generator",
+    "webpack",
+    "webpack-cli",
+    "webpack-init",
+    "webpack-scaffold",
+    "webpack-dev-server",
+    "typescript",
+    "preact",
+    "redux-zero",
+    "babel",
+    "hmr",
+    "es6",
+    "web3",
+    "truffle",
+    "contracts",
+    "solidity",
+    "metamask"
+  ],
+  "author": "Samet Tarim aka prod3v3loper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prod3v3loper/generator-web3-dapp/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/generator-web3-dapp"
+}

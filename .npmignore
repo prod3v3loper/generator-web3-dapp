@@ -1,0 +1,9 @@
+dist
+.github
+.gitattributes
+.gitignore
+_config.yml
+package-lock.json
+node_modules
+generator-*
+.DS_Store

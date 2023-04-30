@@ -1,0 +1,4 @@
+node_modules
+generator-*
+.DS_Store
+package-lock.json
