@@ -83,7 +83,7 @@ If promt a call
 ```bash
 ? 'Allo prod3v3loper,! What would you like to do? (Use arrow keys)
   Run a generator
-> Web3 Contract Dapp
+> Web3 Dapp
 ```
 
 or directly
@@ -113,7 +113,7 @@ If promt a call
 ```bash
 ? 'Allo prod3v3loper,! What would you like to do? (Use arrow keys)
   Run a generator
-> Web3 Contract Dapp
+> Web3 Dapp
 ```
 
 or directly

@@ -1,7 +1,7 @@
 {
   "name": "generator-web3-dapp",
   "description": "Build your contracts with solidity and develop with truffle, create dapps with webpack and preact. By prod3v3loper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./app/index.js",
   "scripts": {},
   "files": [
