@@ -1,5 +1,6 @@
 # 📦 Generator Web3 Dapp
 
+![workflow](https://github.com/prod3v3loper/generator-web3-dapp/actions/workflows/node.js.yml/badge.svg)
 ![Language](https://img.shields.io/github/languages/top/prod3v3loper/generator-web3-dapp.svg?style=flat "Language")
 [![NPM Version](https://img.shields.io/npm/v/generator-web3-dapp.svg?style=flat "NPM Version")](https://www.npmjs.com/package/generator-web3-dapp)
 [![NPM Donwloads](https://img.shields.io/npm/dw/generator-web3-dapp.svg?style=flat "NPM Donwloads")](https://www.npmjs.com/package/generator-web3-dapp)
