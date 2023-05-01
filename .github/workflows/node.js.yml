@@ -40,9 +40,7 @@ jobs:
     - name: Add generator-web3-dapp to node_modules
       run: npm link generator-web3-dapp
     - name: Use generator-web3-dapp
-      run: | 
-            yo web3-dapp
-            yes 'Gitlab CI'
+      run: yo web3-dapp
 
   Run-npm-on-Macos:
 
