@@ -3,7 +3,9 @@
   "description": "Build your contracts with solidity and develop with truffle, create dapps with webpack and preact. By prod3v3loper",
   "version": "1.0.2",
   "main": "./app/index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "node ./app/index.js"
+  },
   "files": [
     "app"
   ],
