@@ -27,7 +27,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - name: Install depencencies
+    - name: Install dependencies
       run: npm i
     - name: Build if prod present
       run: npm run prod --if-present
@@ -42,9 +42,9 @@ jobs:
     - name: Use generator-web3-dapp
       run: |
           yo web3-dapp
-          test
-          test
-          test
+          -y
+          -y
+          -y
           -y
 
   Run-npm-on-Macos:
