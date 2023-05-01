@@ -42,10 +42,10 @@ jobs:
     - name: Use generator-web3-dapp
       run: |
           yo web3-dapp
-          -y
-          -y
-          -y
-          -y
+          'Gitlab CI'
+          '2023'
+          'test'
+          yes
 
   Run-npm-on-Macos:
 
