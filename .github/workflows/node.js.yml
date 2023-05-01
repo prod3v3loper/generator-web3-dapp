@@ -42,9 +42,9 @@ jobs:
     - name: Use generator-web3-dapp
       run: |
           yo web3-dapp
-          echo test
-          echo test
-          echo test
+          test
+          test
+          test
           -y
 
   Run-npm-on-Macos:
