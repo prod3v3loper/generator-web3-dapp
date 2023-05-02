@@ -36,6 +36,8 @@ This scaffold creates in seconds for you a professional environment to develop w
 
 Create solidity contracts and call it with web3.
 
+Here a video with start: https://youtu.be/j_bKbm2cwKg
+
 ## CONTRACTS
 
 You have here two workdirs, first the created project `root dir` after install. Also in the created folder with the scaffold. And in the `frontend dir` you can use `npm`.
