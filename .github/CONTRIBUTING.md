@@ -24,7 +24,7 @@ GitHub has other great markdown features as well, go [here](https://help.github.
 
 Most of the time, when webpack does not work correctly, it might be a configuration issue.
 
-If you are still having difficulty after looking over your configuration carefully, please post a question to [StackOverflow with the web3-contract-dapp tag](http://stackoverflow.com/tags/web3-contract-dapp). This way you help others to help you.
+If you are still having difficulty after looking over your configuration carefully, please post a question to [StackOverflow with the generator-web3-dapp tag](http://stackoverflow.com/tags/generator-web3-dapp). This way you help others to help you.
 
 > You should also have Google search and other plattforms included.
 
@@ -39,7 +39,7 @@ Making a branch in your fork for your contribution is helpful in the following w
 * It allows you to submit more than one contribution in a single PR.
 * It allows us to identify what your contribution is about from the branch name.
 
-You will want to checkout the `master` branch locally before creating your new branch.
+You will want to checkout the `main` branch locally before creating your new branch.
 
 There are two types of branches:
 
@@ -66,7 +66,7 @@ It's important that you test the logic of the code you're writing, and that your
 
 If you need help or need advice on writing your tests, please contact us. We would like to point you in the right direction.
 
-Write here your [issues](https://github.com/prod3v3loper/web3-contract-dapp/issues).
+Write here your [issues](https://github.com/prod3v3loper/generator-web3-dapp/issues).
 
 # Pull Requests
 
@@ -82,4 +82,4 @@ If you made a small change in most cases, your pull request will be accepted fas
 * Follow our code convention
 * Write a good commit message
 
-Show all [pulls](https://github.com/prod3v3loper/web3-contract-dapp/pulls).
+Show all [pulls](https://github.com/prod3v3loper/generator-web3-dapp/pulls).

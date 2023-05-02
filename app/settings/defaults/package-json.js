@@ -61,7 +61,9 @@ module.exports = function createPackageJson(answer) {
       "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
       "@babel/preset-env": "^7.21.5",
       "@babel/preset-typescript": "^7.21.5",
-      "babel-loader": "^9.1.2"
+      "babel-loader": "^9.1.2",
+      "web3": "1.9.0",
+      "truffle-solidity-loader":  "0.0.8",
     },
     dependencies: {
       "@metamask/detect-provider": "^1.2.0",
